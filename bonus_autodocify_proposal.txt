@@ -1,0 +1,4 @@
+AI Tool Proposal: AutoDocify – AI-Powered Documentation Assistant
+Purpose: Automatically generate project documentation from code comments and commit history.
+Workflow: Parses code → Extracts functions and logic → Produces markdown reports → Suggests diagrams.
+Impact: Reduces developer workload, ensures consistency, and enhances collaboration.
