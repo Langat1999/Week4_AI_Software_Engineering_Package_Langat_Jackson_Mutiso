@@ -7,6 +7,8 @@
 
 ## Overview
 
+![AI](<Assets/AI Solutions.jpg>)
+
 This assignment demonstrates the application of AI in software engineering through theoretical analysis, practical implementation, and ethical reflection. It covers AI-driven code generation, automated testing, predictive analytics for resource allocation, and a bonus innovation proposal. The deliverables include well-commented code, performance metrics, screenshots, and analyses as per the grading rubric (Theoretical Depth & Accuracy: 30%, Code Functionality & Quality: 50%, Ethical Reflection: 10%, Creativity & Presentation: 10%).
 
 ## Table of Contents
