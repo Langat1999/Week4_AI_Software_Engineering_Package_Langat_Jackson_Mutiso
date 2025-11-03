@@ -3,7 +3,7 @@
 **Student:** Langat Jackson Mutiso  
 **Institution:** Power Learn Project  
 **Theme:** Building Intelligent Software Solutions 💻🤖  
-**Date:** [Insert Date]  
+**Date:** 11/3/2025 
 
 ## Overview
 
