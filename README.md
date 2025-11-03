@@ -23,7 +23,7 @@ This assignment demonstrates the application of AI in software engineering throu
 - [Submission Guidelines](#submission-guidelines)
 - [Dependencies and Setup](#dependencies-and-setup)
 - [Results and Outputs](#results-and-outputs)
-- [Video Explain](#https://drive.google.com/file/d/1IhlYnnRrekqmG2mJMMVKeHTcBtyrjcy9/view?usp=sharing)
+- [Video Explain](#[video explainer](https://drive.google.com/file/d/1IhlYnnRrekqmG2mJMMVKeHTcBtyrjcy9/view?usp=sharing))
 
 ## Theoretical Analysis
 
@@ -108,7 +108,7 @@ In deploying the predictive model, biases may arise from underrepresented demogr
 
 - **Code:** Shared on GitHub (this repo).
 - **Report:** PDF with answers, screenshots, reflections (separate file).
-- **Presentation:** 3-minute video demo (link in repo or shared separately).
+- **Presentation:** [3-minute video demo](https://drive.google.com/file/d/1IhlYnnRrekqmG2mJMMVKeHTcBtyrjcy9/view?usp=sharing) (link shared separately).
 - **Grading Focus:** Functionality, analysis depth, ethics, creativity.
 
 ## Dependencies and Setup
